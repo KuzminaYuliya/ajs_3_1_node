@@ -1,0 +1,23 @@
+{
+  "name": "ajs_3_1_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuzminaYuliya/ajs_3_1_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuzminaYuliya/ajs_3_1_node/issues"
+  },
+  "homepage": "https://github.com/KuzminaYuliya/ajs_3_1_node#readme",
+  "dependencies": {
+    "@kuzminayuliya/ajs_3_1": "^1.0.0"
+  }
+}
